@@ -2,7 +2,7 @@
   "name": "restaurant-home-page",
   "version": "1.0.0",
   "description": "The home page is going to be generated just with javascript code",
-  "main": "main.js",
+  "main": "index.js",
   "dependencies": {
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.1.0",
