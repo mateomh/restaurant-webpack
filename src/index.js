@@ -1,2 +1,2 @@
 /* eslint-disable no-alert */
-alert('This is the script');
+console.log('This is the script');

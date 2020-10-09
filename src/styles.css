@@ -1,0 +1,23 @@
+#banner {
+  height: 50vh;
+  width: 100%;
+  background-image: linear-gradient(rgb(200, 200, 200, 0.5), rgb(0, 0, 0, 0.7)),
+    url('./imgs/food3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner-title {
+  color: whitesmoke;
+  font-size: 7vh;
+}
+
+.description {
+  text-align: center;
+  font-size: 5vh;
+  color: gray;
+}
