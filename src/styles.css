@@ -53,3 +53,46 @@
   color: #8cba51;
   background-color: white !important;
 }
+
+#menu-display {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 80%;
+  margin: 10vh auto;
+}
+
+.menu-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 50%;
+  height: fit-content;
+}
+
+.right {
+  align-self: flex-end;
+}
+
+.left {
+  align-self: flex-start;
+  flex-direction: row-reverse;
+}
+
+.menu-image {
+  width: 35vh;
+  height: 35vh;
+  margin: 3vh 1.5vh;
+  border-radius: 100%;
+}
+
+.menu-info {
+  margin: 3vh 1.5vh;
+  color: gray;
+  font-size: 4vh;
+}
+
+.menu-info h2 {
+  color: #8cba51
+}
