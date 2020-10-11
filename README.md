@@ -1,33 +1,76 @@
-# restaurant-webpack
-Project #2 of the Microverse curriculum for the Javascript module
-Photos
-<span>Photo by <a href="https://unsplash.com/@danielcgold?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Dan Gold</a> on <a href="https://unsplash.com/s/photos/food?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-<span>Photo by <a href="https://unsplash.com/@brookelark?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Brooke Lark</a> on <a href="https://unsplash.com/s/photos/food?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+# Chunks Restaurant Page
 
-<span>Photo by <a href="https://unsplash.com/@therachelstory?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Rachel Park</a> on <a href="https://unsplash.com/s/photos/food?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+> The idea of this project is to create the entire page content using JavaScript and modules.
 
-<span>Photo by <a href="https://unsplash.com/@tempestdesigner?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mark DeYoung</a> on <a href="https://unsplash.com/s/photos/chicken?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+![screenshot](./app_screenshot.png)
 
-<span>Photo by <a href="https://unsplash.com/@keriliwi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Keri liwi</a> on <a href="https://unsplash.com/s/photos/beef?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+All the functionality and assets presented in the page are generated using JavaScript modules and DOM manipulation. All the files are bundled together using webpack with loaders for image compression and css incorporation.
 
-<span>Photo by <a href="https://unsplash.com/@eaterscollective?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Eaters Collective</a> on <a href="https://unsplash.com/s/photos/pasta?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+## Built With
 
-<span>Photo by <a href="https://unsplash.com/@nikldn?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">nikldn</a> on <a href="https://unsplash.com/s/photos/pancakes?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+- Javascript,
+- DOM,
+- Webpack
 
-<span>Photo by <a href="https://unsplash.com/@alyssa1212?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Alyssa li</a> on <a href="https://unsplash.com/s/photos/eggs-breakfast?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+## Live Demo
 
-<span>Photo by <a href="https://unsplash.com/@brookelark?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Brooke Lark</a> on <a href="https://unsplash.com/s/photos/healthy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-<span>Photo by <a href="https://unsplash.com/@lavievagabonde?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jasmin Schreiber</a> on <a href="https://unsplash.com/s/photos/salad?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-<span>Photo by <a href="https://unsplash.com/@carolineattwood?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Caroline Attwood</a> on <a href="https://unsplash.com/s/photos/salmon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-<span>Photo by <a href="https://unsplash.com/@milesb?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Miles Burke</a> on <a href="https://unsplash.com/s/photos/contact?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+[Live Demo Link](https://raw.githack.com/mateomh/restaurant-webpack/restaurant-page/dist/index.html)
 
 
+## Getting Started
 
-icons
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
-Icons made by <a href="https://www.flaticon.com/authors/darius-dan" title="Darius Dan">Darius Dan</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
+
+
+## Authors
+
+👤 **Author1**
+
+- Github: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+
+👤 **Author2**
+
+- Github: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
