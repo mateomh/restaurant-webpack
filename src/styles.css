@@ -1,0 +1,99 @@
+.banner {
+  height: 50vh;
+  width: 100%;
+  background-image:
+    linear-gradient(rgb(200, 200, 200, 0.5), rgb(0, 0, 0, 0.9)),
+    url('./imgs/food3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner-title {
+  color: whitesmoke;
+  font-size: 7vh;
+}
+
+.description {
+  text-align: center;
+  font-size: 5vh;
+  color: gray;
+}
+
+#tabs {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.tab {
+  height: 10vh;
+  width: 15%;
+  color: gray;
+  background-color: white;
+  border: none;
+  outline: none;
+  text-align: center;
+  font-size: 3vh;
+  font-weight: bolder;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.tab:hover {
+  background-color: whitesmoke;
+}
+
+.selected {
+  border-bottom: 4px solid #8cba51;
+  color: #8cba51;
+  background-color: white !important;
+}
+
+#menu-display {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 80%;
+  margin: 10vh auto;
+}
+
+.menu-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 50%;
+  height: fit-content;
+}
+
+.right {
+  align-self: flex-end;
+}
+
+.left {
+  align-self: flex-start;
+  flex-direction: row-reverse;
+}
+
+.menu-image {
+  width: 35vh;
+  height: 35vh;
+  margin: 3vh 1.5vh;
+  border-radius: 100%;
+}
+
+.menu-info {
+  margin: 3vh 1.5vh;
+  color: gray;
+  font-size: 4vh;
+}
+
+.menu-info h2 {
+  color: #8cba51;
+}
