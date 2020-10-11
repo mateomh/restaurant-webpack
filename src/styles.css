@@ -1,7 +1,8 @@
 .banner {
   height: 50vh;
   width: 100%;
-  background-image: linear-gradient(rgb(200, 200, 200, 0.5), rgb(0, 0, 0, 0.9)),
+  background-image:
+    linear-gradient(rgb(200, 200, 200, 0.5), rgb(0, 0, 0, 0.9)),
     url('./imgs/food3.jpg');
   background-position: center;
   background-repeat: no-repeat;
@@ -94,5 +95,5 @@
 }
 
 .menu-info h2 {
-  color: #8cba51
+  color: #8cba51;
 }
