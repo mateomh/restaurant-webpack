@@ -13,12 +13,18 @@
     "stylelint-csstree-validator": "^1.8.0"
   },
   "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-loader": "^8.1.0",
     "file-loader": "^6.1.1",
+    "image-webpack-loader": "^7.0.1",
+    "url-loader": "^4.1.1",
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch"
   },
   "repository": {
     "type": "git",
