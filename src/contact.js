@@ -1,7 +1,9 @@
+import contact from './imgs/contact.jpg';
+
 export default function contactItems() {
   const items = [];
   items.push({
-    img: '../src/imgs/contact.jpg',
+    img: contact,
     title: 'Reach us',
     desc: 'Make your order online or by phone',
   });

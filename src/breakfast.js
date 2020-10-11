@@ -1,17 +1,21 @@
+import breakfast1 from './imgs/breakfast1.jpg';
+import breakfast2 from './imgs/breakfast2.jpg';
+import breakfast3 from './imgs/breakfast3.jpg';
+
 export default function breakfastItems() {
   const items = [];
   items.push({
-    img: '../src/imgs/breakfast1.jpg',
+    img: breakfast1,
     title: 'Eggs',
     desc: 'Delicious eggs to start the morning',
   });
   items.push({
-    img: '../src/imgs/breakfast2.jpg',
+    img: breakfast2,
     title: 'Granola',
     desc: 'Healthy granola to give you all the vitamins and minerals',
   });
   items.push({
-    img: '../src/imgs/breakfast3.jpg',
+    img: breakfast3,
     title: 'Pancakes',
     desc: 'Tasty pancakes with fruit for those cheat days',
   });

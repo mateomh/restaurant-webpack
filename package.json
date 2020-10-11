@@ -13,6 +13,7 @@
     "stylelint-csstree-validator": "^1.8.0"
   },
   "devDependencies": {
+    "file-loader": "^6.1.1",
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12"
   },
