@@ -1,67 +1,7 @@
-function breakfastItems() {
-  const items = [];
-  items.push({
-    img: '../src/imgs/breakfast1.jpg',
-    title: 'Eggs',
-    desc: 'Delicious eggs to start the morning',
-  });
-  items.push({
-    img: '../src/imgs/breakfast2.jpg',
-    title: 'Granola',
-    desc: 'Healthy granola to give you all the vitamins and minerals',
-  });
-  items.push({
-    img: '../src/imgs/breakfast3.jpg',
-    title: 'Pancakes',
-    desc: 'Tasty pancakes with fruit for those cheat days',
-  });
-  return items;
-}
-
-function lunchItems() {
-  const items = [];
-  items.push({
-    img: '../src/imgs/lunch1.jpg',
-    title: 'Chicken',
-    desc: 'Grilled chicken with no added fat',
-  });
-  items.push({
-    img: '../src/imgs/lunch2.jpg',
-    title: 'Pasta',
-    desc: 'Tasty pasta alfredo with parmesan cheese',
-  });
-  items.push({
-    img: '../src/imgs/lunch3.jpg',
-    title: 'Beef',
-    desc: 'Juicy beef with potatoes and vegetables',
-  });
-  return items;
-}
-
-function dinnerItems() {
-  const items = [];
-  items.push({
-    img: '../src/imgs/dinner1.jpg',
-    title: 'Salmon',
-    desc: 'Imported salmon with a bed of stir vegetables',
-  });
-  items.push({
-    img: '../src/imgs/dinner2.jpg',
-    title: 'Salad',
-    desc: 'If you eat this for dinner you will be hungry by midnight',
-  });
-  return items;
-}
-
-function contactItems() {
-  const items = [];
-  items.push({
-    img: '../src/imgs/contact.jpg',
-    title: 'Reach us',
-    desc: 'Make your order online or by phone',
-  });
-  return items;
-}
+import breakfastItems from './breakfast';
+import lunchItems from './lunch';
+import dinnerItems from './dinner';
+import contactItems from './contact';
 
 function clearMenu(menu) {
   while (menu.firstChild) {
