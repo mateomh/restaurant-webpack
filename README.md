@@ -51,3 +51,32 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
+
+
+## Image credits
+
+All the images used in the page were taken from [Unsplash](https://unsplash.com/s/photos/food?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) and in this section are the people that made them and deserve recognition.
+
+<a href="https://unsplash.com/@danielcgold?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Dan Gold</a>
+
+<a href="https://unsplash.com/@brookelark?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Brooke Lark</a>
+
+<a href="https://unsplash.com/@therachelstory?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Rachel Park</a>
+
+<a href="https://unsplash.com/@tempestdesigner?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mark DeYoung</a>
+
+<a href="https://unsplash.com/@keriliwi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Keri liwi</a>
+
+<a href="https://unsplash.com/@eaterscollective?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Eaters Collective</a>
+
+<a href="https://unsplash.com/@nikldn?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">nikldn</a>
+
+<a href="https://unsplash.com/@alyssa1212?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Alyssa li</a>
+
+<a href="https://unsplash.com/@brookelark?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Brooke Lark</a>
+
+<a href="https://unsplash.com/@lavievagabonde?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jasmin Schreiber</a>
+
+<a href="https://unsplash.com/@carolineattwood?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Caroline Attwood</a>
+
+<a href="https://unsplash.com/@milesb?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Miles Burke</a>
